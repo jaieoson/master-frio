@@ -22,9 +22,10 @@ const Navbar = () => {
         <div className="relative w-100 h-120">
         <a href="/" className="text-white text-2xl font-bold">
               <Image  className="w-full h-62 object-cover object-center"
-                src={'/BomBordo.png'} width={70} height={70} alt={'passeios naúticos alagoas'} ></Image>
+                src={'/master-frio.png'} width={70} height={70} alt={'passeios naúticos alagoas'} ></Image>
         </a>
           </div>
+          
           
         <button
           className="text-white focus:outline-none lg:hidden"
