@@ -2,15 +2,15 @@ import React from 'react';
 
 const PasseiosNauticos = () => {
   return (
-    <div className="bg-blue-100 p-8 rounded-md shadow-md">
+    <div className="bg-yellow-100 p-8 rounded-md shadow-md">
       <h2 className="text-2xl font-bold mb-4">
-        Descubra as Maravilhas Náuticas de Alagoas! 🚤☀️
+        Master Frio - refrigeração
       </h2>
     
     
       {/* Barco Exclusivo */}
       <div className="mb-6">
-        <h3 className="text-xl font-bold mb-4">Barco Exclusivo para 6 Pessoas:</h3>
+        <h3 className="text-xl font-bold mb-4">Consertos, limpeza e manutenção de ar-condicionado</h3>
         <p>Desfrute de um dia incrível com amigos ou familiares...</p>
       </div>
       {/* Reserva */}

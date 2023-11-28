@@ -8,19 +8,19 @@ const toursData = [
     id: 1,
     title: 'Passeio na Lagoa',
     description: 'Navegue pelas águas serenas da Lagoa Mundaú, uma experiência única em Alagoas. 🚤✨.',
-    imageUrl: '/barco01.png',
+    imageUrl: '/ar-condicionado.webp',
   },
   {
     id: 2,
-    title: 'Passeio Prainha',
+    title: 'Limpeza',
     description: 'Da serenidade da Lagoa Mundaú à beleza intocada da Prainha: seu passeio dos sonhos. 🏞️🚤',
-    imageUrl: '/barco02.png',
+    imageUrl: '/refrigeracao.jpg',
   },
   {
     id: 3,
-    title: 'Praia do saco',
+    title: 'Manutenção',
     description: 'Explore a exuberância da Lagoa Mundaú à agitação da Praia do Francês. Uma jornada inesquecível. 🏝️🚤',
-    imageUrl: '/barco03.png',
+    imageUrl: '/refri02.jfif',
   },
 ];
 
