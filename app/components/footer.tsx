@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto flex flex-wrap justify-between">
         <div className="w-full md:w-1/2 lg:w-1/3 mb-4">
           <h3 className="text-lg font-semibold mb-2">Informações de Contato</h3>
-          <p>Email: contato@passeiosnauticos.com</p>
+          <p>Email: contato@robo-inteligente.com</p>
           <p>Telefone: (12) 3456-7890</p>
         </div>
         <div className="w-full md:w-1/2 lg:w-1/3 mb-4">
@@ -17,7 +17,7 @@ const Footer = () => {
           <h3 className="text-lg font-semibold mb-2">Mapa do Site</h3>
           <ul>
             <li><a href="/">Página Inicial</a></li>
-            <li><a href="/tours">Passeios</a></li>
+            <li><a href="/tours"></a></li>
             <li><a href="/contato">Contato</a></li>
           </ul>
         </div>

@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import PasseiosNauticos from './components/passeio';
 import ToursList from './components/tourList';
 import Footer from './components/footer';
+import Texto from './components/apresenta';
 
 
 
@@ -16,13 +17,13 @@ const Navbar = () => {
 
   return (
     <>
-    <nav className="bg-yellow-500 ">
+    <nav className="bg-green-800 ">
         <div className="container mx-auto flex justify-between items-center">
           
         <div className="relative w-100 h-120">
         <a href="/" className="text-white text-2xl font-bold">
               <Image  className="w-full h-62 object-cover object-center"
-                src={'/master-frio.png'} width={70} height={70} alt={'passeios naúticos alagoas'} ></Image>
+                src={'/robo-whatsapp.png'} width={70} height={70} alt={'Atendimento automatizado'} ></Image>
         </a>
           </div>
           
@@ -94,8 +95,7 @@ const Navbar = () => {
     </nav>
 
 
-      <PasseiosNauticos />
-      <ToursList />
+      <Texto/>
       <Footer/>
     
     </>
